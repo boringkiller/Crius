@@ -1,4 +1,6 @@
 Crius
 =====
 
-J2EE web application framework
+J2EE web application framework。
+
+ibatis+spring
